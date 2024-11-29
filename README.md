@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/gaurav singh" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav singh?logo=twitter&style=for-the-badge" alt="gaurav singh" /></a> </p>
 
-- 🌱 I’m currently learning **html, css, java, script, react.**
+<p align="left"> <a href="https://bootstrap.com/gaurav singh" target="blank"><img src="https://img.shields.io/bootstrap/follow/gaurav singh?logo=bootstrap&style=for-the-badge" alt="gaurav singh" /></a> </p>
+
+- 🌱 I’m currently learning **html, css, java, script, react, bootstrap ,photoshop.**
 
 - 💬 Ask me about **frontend development**
 
