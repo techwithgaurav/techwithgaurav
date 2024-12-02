@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm techwithgaurav from India</h1>
+<h1 align="center">Hi 👋, I'm techwithgaurav </h1>
+<h3 align="center">A passionate frontend developer from India<h3>
 <h3 align="center">i am computer science student</h3>
 <img align="right" alt="coding" width="500" height="300" src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techwithgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="techwithgaurav" /> </p>
